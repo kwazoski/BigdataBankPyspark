@@ -1,0 +1,6 @@
+Model,Tipe,Metrik Utama,Metrik 2
+Linear Regression,Regresi,R² = -0.0003,"RMSE = 260,865"
+Random Forest Regressor,Regresi,R² = -0.0001,"RMSE = 260,840"
+Logistic Regression,Klasifikasi,Accuracy = 14.31%,F1 = 0.1287
+Random Forest Classifier,Klasifikasi,Accuracy = 14.32%,F1 = 0.1140
+K-Means (k=4),Clustering,Silhouette = 0.3978,k=4 klaster
